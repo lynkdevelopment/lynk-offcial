@@ -1,0 +1,65 @@
+{
+  "Config": {
+    "rpcUrl": "https://polygon-rpc.com/",
+    "multicallAddress": "0x11ce4B23bD875D7F5C6a31084f55fDe1e9A87507",
+    "blockExplorerUrls": "https://polygonscan.com/",
+    "chainId": 137,
+    "twitter": "https://twitter.com/SynAssets",
+    "github": "https://github.com/synassets",
+    "medium": "https://medium.com/@SynAssets",
+    "discord": "https://discord.gg/BzVUJJszaU",
+    "doc": "https://doc.synassets.finance/",
+    "whiteListURL": "https://medium.com/@SynAssets/synassets-tokenomics-ido-whitelists-details-569626623e46"
+
+  },
+  "SAT": {
+    "Address": {
+      "BondDepositoryDai": "",
+      "BondDepositoryLp": "",
+      "StakingHelper": "",
+      "Staking": "",
+      "ohm_coin": "",
+      "sohm_coin": "",
+      "dai_coin": "",
+      "xxx_dai_lp_coin": "",
+      "PreSale2": "",
+      "PreSale5": "",
+      "getLpPrice": "",
+      "Migrate": "",
+      "sohm_coin_old": ""
+    },
+    "IDO": {
+      "OG": {
+        "enableWhiteList": false,
+        "address": "0x8d727C3D99892b285dD7F0D7268E6cE850532E47",
+        "symbol": "TestSAT",
+        "symbolScala": "1000000000000000000",
+        "maxAmount1": "1000000000000",
+        "maxAmount1PerWallet": "1000000000",
+        "minAmount1PerWallet": "1000000000",
+        "scala": "1000000",
+        "openAtOld": 1642136400,
+        "openAt": 1642140600,
+        "closeAt": 1642141800,
+        "current": "TestUSDC",
+        "currentAddress": "0x70b04a9AbC8D0D2088a3D0895aD3a6363859592f",
+        "contractAddress": "0xB1601bF2D7FE00d24ccb4037F5D87b7664b19c7e"
+      },
+      "NOG": {
+        "enableWhiteList": false,
+        "address": "0x8d727C3D99892b285dD7F0D7268E6cE850532E47",
+        "symbol": "TestSAT",
+        "symbolScala": "1000000000000000000",
+        "maxAmount1": "1000000000000",
+        "maxAmount1PerWallet": "10000000000",
+        "minAmount1PerWallet": "500000000",
+        "scala": "1000000",
+        "openAt": 1642140600,
+        "closeAt": 1642141800,
+        "current": "TestUSDC",
+        "currentAddress": "0x70b04a9AbC8D0D2088a3D0895aD3a6363859592f",
+        "contractAddress": "0xdCde2c8CC76f9C40f439e294843D9c7DaB7a2A5e"
+      }
+    }
+  }
+}
